@@ -344,6 +344,11 @@
   margin-right: 10px;
 }
 
+.footer__navigation-item {
+  list-style-type: none;
+  margin-bottom: 16px;
+}
+
 
 
 
