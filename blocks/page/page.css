@@ -7,11 +7,4 @@
   width: 100%;
 }
 
-.link-hover {
-  opacity: 1;
-  transition: opacity 0.3s linear;
-}
 
-.link-hover:hover {
-  opacity: .65;
-}
